@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Greek Salad",
+    "image": "./assets/images/menu-1.png",
+    "alt": "Greek Salad",
+    "badge": "Seasonal",
+    "price": "$25.50",
+    "description": "Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese."
+  },
+  {
+    "id": 2,
+
+    "title": "Lasagne",
+    "image": "./assets/images/menu-2.png",
+    "alt": "Lasagne",
+    "price": "$40.00",
+    "description": "Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices."
+  },
+  {
+    "id": 3,
+    "title": "Butternut Pumpkin",
+    "image": "./assets/images/menu-3.png",
+    "alt": "Butternut Pumpkin",
+    "price": "$10.00",
+    "description": "Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand."
+  },
+  {
+    "id": 4,
+    "title": "Tokusen Wagyu",
+    "image": "./assets/images/menu-4.png",
+    "alt": "Tokusen Wagyu",
+    "badge": "New",
+    "price": "$39.00",
+    "description": "Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices."
+  },
+  {
+    "id": 5,
+
+    "title": "Olivas Rellenas",
+    "image": "./assets/images/menu-5.png",
+    "alt": "Olivas Rellenas",
+    "price": "$25.00",
+    "description": "Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper."
+  },
+  {
+    "id": 6,
+    "title": "Opu Fish",
+    "image": "./assets/images/menu-6.png",
+    "alt": "Opu Fish",
+    "price": "$49.00",
+    "description": "Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices."
+  }
+]
