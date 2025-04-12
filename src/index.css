@@ -11,10 +11,6 @@
 \*-----------------------------------*/
 
 :root {
-  /**
-     * COLORS
-     */
-
   --gold-crayola: hsl(38, 61%, 73%);
   --quick-silver: hsla(0, 0%, 65%, 1);
   --davys-grey: hsla(30, 3%, 34%, 1);

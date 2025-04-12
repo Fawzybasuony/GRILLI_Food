@@ -21,7 +21,7 @@ export default function About() {
 
           <a href="tel:+804001234567" className="body-1 contact-number hover-underline">+21000XXXXXX0</a>
 
-          <a href="#" className="btn btn-primary">
+          <a href="/#" className="btn btn-primary">
             <span className="text text-1">Read More</span>
             <span className="text text-2" aria-hidden="true">Read More</span>
           </a>

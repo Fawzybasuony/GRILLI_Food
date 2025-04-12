@@ -3,7 +3,7 @@ import React from 'react'
 export default function Model({SelectedItem,setSelectedItem}) {
   return (
     < > 
-          {/* مودال التفاصيل */}
+   {/*  __Model Details */}       
           {SelectedItem && (
            
                    <div className="detals">

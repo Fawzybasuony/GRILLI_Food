@@ -1,6 +1,5 @@
 import { useState } from "react";
-import "./Headar.css";
-
+ 
 export default function Headar() {
   const [shownav, setshownav] = useState(false);
 
